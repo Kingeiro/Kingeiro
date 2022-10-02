@@ -10,6 +10,7 @@
 <a href="https://twitch.tv/kingeiroh1"><img src="https://img.shields.io/badge/twitch-violet.svg?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a> 
 <a href="https://www.tiktok.com/@kingeiroh1"><img src="https://img.shields.io/badge/tiktok-black.svg?&style=for-the-badge&logo=tiktok&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/channel/UCpjFmZxQIaoP2jcDmUHTADg"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://linktr.ee/kingeirocommunity"><img src="https://img.shields.io/badge/-Linktree-green?&style=for-the-badge&logo=linktree&logoColor=white" height=25></a>
 </div>
   
 <h1 align=center><b>Comunidade</b></h1>
