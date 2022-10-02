@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCpjFmZxQIaoP2jcDmUHTADg"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 <a href="https://linktr.ee/kingeirocommunity"><img src="https://img.shields.io/badge/-Linktree-green?&style=for-the-badge&logo=linktree&logoColor=white" height=25></a>
 <a href="https://twitter.com/KingeiroH"><img src="https://img.shields.io/badge/-Twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://twitter.com/KingeiroH"><img src="https://img.shields.io/badge/-Twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/kingeiroh1/"><img src="https://img.shields.io/badge/-Instagram-red?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </div>
   
 <h1 align=center><b>Comunidade</b></h1>
