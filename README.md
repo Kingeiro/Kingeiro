@@ -18,5 +18,3 @@
 
 <h1 align=center><b>Github visitantes</b></h1>
 <p align=center><img src="https://profile-counter.glitch.me/kingeiroh1/count.svg"></p><br>
-
-[Twitch](https://twitch.tv/kingeiroh1)   |   [YouTube](https://www.youtube.com/channel/UCpjFmZxQIaoP2jcDmUHTADg)   |   [TikTok](https://www.tiktok.com/@kingeiroh1)    |  [Kingeiro Menu - FiveM](https://discord.gg/FwcJ5gWjew)   |   [Discord](https://discord.gg/FwcJ5gWjew)
