@@ -11,6 +11,10 @@
 <a href="https://www.tiktok.com/@kingeiroh1"><img src="https://img.shields.io/badge/tiktok-black.svg?&style=for-the-badge&logo=tiktok&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/channel/UCpjFmZxQIaoP2jcDmUHTADg"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </div>
+  
+<h1 align=center><b>Comunidade</b></h1>
+
+<p align=center><img src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;"></p>
 
 
 [Twitch](https://twitch.tv/kingeiroh1)   |   [YouTube](https://www.youtube.com/channel/UCpjFmZxQIaoP2jcDmUHTADg)   |   [TikTok](https://www.tiktok.com/@kingeiroh1)    |  [Kingeiro Menu - FiveM](https://discord.gg/FwcJ5gWjew)   |   [Discord](https://discord.gg/FwcJ5gWjew)
