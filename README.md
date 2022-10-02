@@ -7,4 +7,4 @@
 <!---
 DISCORD: EM BREVE
 --->
-[TWITCH](https://twitch.tv/kingeiroh1)
+[Twitch](https://twitch.tv/kingeiroh1)      [YouTube](https://www.youtube.com/channel/UCpjFmZxQIaoP2jcDmUHTADg)      [TikTok](https://www.tiktok.com/@kingeiroh1)      [Kingeiro Menu - FiveM](https://discord.gg/FwcJ5gWjew)      [Discord](https://discord.gg/FwcJ5gWjew)
